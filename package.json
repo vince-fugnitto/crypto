@@ -1,0 +1,19 @@
+{
+  "name": "crypto-example",
+  "author": "Vincent Fugnitto",
+  "version": "1.0.0",
+  "description": "Cryptography Example",
+  "main": "crypto.js",
+  "scripts": {
+    "build": "node crypto.js",
+    "test": "echo \"test successful\""
+  },
+  "keywords": [
+    "crypto",
+    "cryptography"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "openssl-wrapper": "^0.3.4"
+  }
+}
